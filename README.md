@@ -2,7 +2,8 @@
   
 🎓 Recent graduate with a Bachelor's degree in Computer Science from Sorbonne University, awarded Highest Honors. Ranked 1st/1584 in 1st year (average: 19.25), 7th/200 in 2nd year (average: 16.59), and 15th/196 in 3rd year (average: 16.00) 
 
-📚 Incoming Master's student in **Machine Learning for Data Science** at Paris University (apprenticeship)   
+📚 Incoming Master's student in **Machine Learning for Data Science** at Paris University (apprenticeship)
+
 💡 Passionate about Data Science and Artificial Intelligence
 
 ---
