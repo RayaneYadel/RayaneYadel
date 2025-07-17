@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rayane Yadel
   
-🎓 Recent graduate in Computer Science from Sorbonne University  
+🎓 Recent graduate in Computer Science bachelor from Sorbonne University  
 📚 Incoming Master's student in **Machine Learning for Data Science** at Paris University (apprenticeship)   
 💡 Passionate about Data Science and Artificial Intelligence
 
