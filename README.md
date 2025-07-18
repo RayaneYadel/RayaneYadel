@@ -43,6 +43,16 @@ Git, Power BI, VS Code, Jupyter Notebook, Excel, PowerPoint
    - **Tic Tac Toe** (turn‑based adversarial setup)  
    - **Mad Pod Racing** (competitive continuous‑control task)
 
+
+---
+
+## 📜 Certifications
+
+To strengthen my foundational knowledge in data science and demonstrate commitment to continuous learning, I completed two professional certifications from IBM:
+- **Machine Learning with Python – IBM**
+- **SQL and Databases for Data Science – IBM**  
+These courses helped deepen my understanding of practical machine learning workflows and database querying for real-world data science applications.
+
 ---
 
 ## 🧠 Interests
