@@ -49,9 +49,10 @@ Git, Power BI, VS Code, Jupyter Notebook, Excel, PowerPoint
 ## 📜 Certifications
 
 To strengthen my foundational knowledge in data science and demonstrate commitment to continuous learning, I completed two professional certifications from IBM:
-- **Machine Learning with Python – IBM**
-- **SQL and Databases for Data Science – IBM**  
+- **[Machine Learning with Python – IBM](./Machine_Learning_Certificat_IBM.pdf)**
+- **[SQL and Databases for Data Science – IBM](./SQL_Certificat_IBM.pdf)**  
 These courses helped deepen my understanding of practical machine learning workflows and database querying for real-world data science applications.
+
 
 ---
 
