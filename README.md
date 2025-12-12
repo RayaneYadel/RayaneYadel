@@ -2,7 +2,9 @@
   
 🎓 Recent graduate with a Bachelor's degree in Computer Science from Sorbonne University, awarded Highest Honors. Ranked 1st/1584 in 1st year (average: 19.25), 7th/200 in 2nd year (average: 16.59), and 15th/196 in 3rd year (average: 16.00) 
 
-📚 Incoming Master's student in **Machine Learning for Data Science** at Paris University (apprenticeship)
+📚 Master’s student in Machine Learning for Data Science at Paris University
+
+💼 Data Scientist at ANFR — National Agency of Frequencies (France), Paris
 
 💡 Passionate about Data Science and Artificial Intelligence
 
@@ -13,17 +15,26 @@
 Python, SQL, C, C++, Java
 
 ### 📊 Data Science  
-Machine Learning, Deep Learning, Natural Language Processing (NLP)  
+Machine Learning, Deep Learning, Natural Language Processing (NLP)
+Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Prompt Engineering
 Numpy, Pandas, Matplotlib, Scikit-Learn, PyTorch
 
 ### 📐 Statistics & Mathematics  
-Probability, Regression (Linear, Logistic, Poisson), Statistical Testing
+Probability Theory, Descriptive & Inferential Statistics
+Regression (Linear, Logistic, Poisson), Classification metrics
+Statistical Testing (parametric & non-parametric), Hypothesis Testing
 
-### 🗃️ Databases  
-MySQL, ORACLE, SQL
+### 🗃️ Data Engineering & Databases
 
-### 🧰 Tools  
-Git, Power BI, VS Code, Jupyter Notebook, Excel, PowerPoint
+Data pipelines (ETL/ELT), data cleaning & preprocessing
+SQL optimization, schema design
+MySQL, Oracle, SQL
+
+### 🧰 Tools & Ecosystem
+
+Git, Jupyter Notebook, VS Code
+Power BI, Excel, PowerPoint
+Experimentation & reproducibility workflows
 
 ---
 
@@ -48,10 +59,14 @@ Git, Power BI, VS Code, Jupyter Notebook, Excel, PowerPoint
 
 ## 📜 Certifications
 
-To strengthen my foundational knowledge in data science and demonstrate commitment to continuous learning, I completed two professional certifications from IBM:
+To strengthen my foundational knowledge in data science, cloud computing, and demonstrate a strong commitment to continuous learning, I completed the following professional certifications:
+
 - **[Machine Learning with Python – IBM](./Machine_Learning_Certificat_IBM.pdf)**
-- **[SQL and Databases for Data Science – IBM](./SQL_Certificat_IBM.pdf)**  
-These courses helped deepen my understanding of practical machine learning workflows and database querying for real-world data science applications.
+- **[SQL and Databases for Data Science – IBM](./SQL_Certificat_IBM.pdf)**
+- **[AWS Cloud Foundations](https://www.credly.com/badges/959f1161-ab86-4c31-8cd2-14bd96c004cb/)**
+
+These certifications reinforced my skills in applied machine learning, data management, and cloud fundamentals for building scalable, real-world data and AI solutions.
+
 
 
 ---
